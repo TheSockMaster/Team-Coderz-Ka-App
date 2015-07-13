@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>New Webpage</title>
         <link rel='stylesheet' href='style.css'/>
-        <script src='script.js'></script>
+        <script type='text/javascript' src='script.js'></script>
     </head>
     <body>
       <img src='https://www.khanacademy.org/computer-programming/thediamondmincart-in-a-diamond-minecart/6068289164935168/5723151296102400.png' class='Khan1'>
