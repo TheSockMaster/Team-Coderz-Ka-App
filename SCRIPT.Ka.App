@@ -3,8 +3,7 @@ var Stuff = {};
 
 
 $(document).ready(function() {
-  $('.Khan1').hide();
-  $('.Khan2').hide();
+  $('img').hide();
   $('#Khan1').click(function() {
     $('.Khan1').show();
     $('.Khan2').hide();
